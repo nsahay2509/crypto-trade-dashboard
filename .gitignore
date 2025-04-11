@@ -1,0 +1,14 @@
+
+# Ignore Python cache and system files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Ignore logs and state
+*.xlsx
+*.csv
+state.json
+
+# Ignore virtual environment
+venv/
+.env/
